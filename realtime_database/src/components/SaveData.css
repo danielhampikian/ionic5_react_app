@@ -1,0 +1,20 @@
+.container {
+    text-align: right;
+    padding-right:5%;
+    margin:5%;
+    border: 1px rgb(66, 143, 195) solid;
+  }
+  
+  .container p {
+    font-size: 16px;
+    line-height: 22px;
+    color: rgb(66, 143, 195);
+    margin: 0;
+  }
+  
+  .container a {
+    text-decoration: none;
+  }
+  .buttonCustom {
+    text-align:center;
+  }

@@ -1,0 +1,7 @@
+{
+  "name": "realtime_database",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
