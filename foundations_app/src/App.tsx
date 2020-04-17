@@ -39,14 +39,6 @@ import {images} from 'ionicons/icons';
 import firebase from 'firebase/app';
 
 var firebaseConfig = {
-    apiKey: "AIzaSyCiN5BhfDW_N0OToCLMwpGVOhGV6fPnyWM",
-    authDomain: "react5cam.firebaseapp.com",
-    databaseURL: "https://react5cam.firebaseio.com",
-    projectId: "react5cam",
-    storageBucket: "react5cam.appspot.com",
-    messagingSenderId: "233434975636",
-    appId: "1:233434975636:web:00510cce4ebd618a055381",
-    measurementId: "G-T4YDHTG8QN"
 };
 firebase.initializeApp(firebaseConfig);
 
